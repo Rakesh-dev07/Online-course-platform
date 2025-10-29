@@ -59,7 +59,7 @@ A full-stack **Learning Management System (LMS)** built using the **MERN stack**
 ---
 
 ## 🗂️ Folder Structure
-
+```
 online-course-platform/
 │
 ├── client/ # React frontend
@@ -75,15 +75,11 @@ online-course-platform/
 │ └── package.json
 │
 └── README.md
-
-yaml
-Copy code
-
----
+```
 
 ## ⚙️ Setup & Installation
 
-### 1️⃣ Clone Repository
+ 1️⃣ Clone Repository
 ```
 git clone https://github.com/yourusername/online-course-platform.git
 cd online-course-platform
@@ -151,6 +147,9 @@ Vercel
 
 💬 Author
 👨‍💻 Rakesh [YourLastName]
+
 📧 [your.email@example.com]
+
 🌐 [your-portfolio-link.vercel.app] (optional)
+
 🔗 LinkedIn | GitHub
