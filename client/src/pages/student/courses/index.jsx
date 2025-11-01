@@ -123,7 +123,7 @@ function StudentViewCoursesPage() {
     };
   }, []);
 
-  console.log(loadingState, "loadingState");
+  // console.log(loadingState, "loadingState");
 
   return (
     <div className="container mx-auto p-4">
