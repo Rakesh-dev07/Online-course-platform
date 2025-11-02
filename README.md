@@ -92,7 +92,7 @@ npm install
 Create a .env file inside /server:
 
 env
-PORT=5000
+PORT=1000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
 PAYPAL_CLIENT_ID=your_sandbox_client_id
