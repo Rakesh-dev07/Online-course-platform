@@ -94,7 +94,7 @@ function StudentViewCourseDetailsPage() {
     };
 
     if (process.env.NODE_ENV === "development") {
-      console.log(paymentPayload, "paymentPayload");
+      // console.log(paymentPayload, "paymentPayload");
     }
 
     const response = await createPaymentService(paymentPayload);

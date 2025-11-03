@@ -53,7 +53,7 @@ function StudentViewCoursesPage() {
     const indexOfCurrentSeection =
       Object.keys(cpyFilters).indexOf(getSectionId);
 
-    console.log(indexOfCurrentSeection, getSectionId);
+    // console.log(indexOfCurrentSeection, getSectionId);
     if (indexOfCurrentSeection === -1) {
       cpyFilters = {
         ...cpyFilters,
