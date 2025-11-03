@@ -7,8 +7,8 @@ A full-stack **Learning Management System (LMS)** built using the **MERN stack**
 ---
 
 ## 🚀 Live Demo
-🔗 **Frontend:** [https://your-frontend-link.vercel.app](https://your-frontend-link.vercel.app)  
-🔗 **Backend API:** [https://your-backend-link.onrender.com](https://your-backend-link.onrender.com)
+🔗 **Frontend:** [https://onlinecourseplatform-one.vercel.app](https://onlinecourseplatform-one.vercel.app)  
+🔗 **Backend API:** [https://online-course-platform-dqnm.onrender.com](https://online-course-platform-dqnm.onrender.com)
 
 ---
 
@@ -128,8 +128,8 @@ PAYPAL_SECRET	PayPal sandbox secret
 CLOUDINARY_*	Cloudinary credentials
 VITE_API_URL	Backend URL for API calls
 ```
-📸 Screenshots (Optional)
-(You can add images here later, like login page, course list, payment popup, etc.)
+📸 Homepage
+ ![Homepage](https://github.com/user-attachments/assets/2404db39-e7db-402c-97cc-1daf3a94820c)
 
 📄 License
 This project is open source and available under the MIT License.
