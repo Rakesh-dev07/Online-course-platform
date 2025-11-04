@@ -146,10 +146,4 @@ Render
 Vercel
 
 💬 Author
-👨‍💻 Rakesh [YourLastName]
-
-📧 [your.email@example.com]
-
-🌐 [your-portfolio-link.vercel.app] (optional)
-
-🔗 LinkedIn | GitHub
+👨‍💻 Rakesh Yadav
